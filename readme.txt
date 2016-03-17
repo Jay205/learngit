@@ -21,3 +21,4 @@ Creating a new branch is quick AND simple.
 >>>>>>> featurel
 Creating a new branch is quick and simple.
 ABCDEFG
+123456
